@@ -1,0 +1,7 @@
+Każdy kolejny folder i<n> to kolejna iteracja serwisu www:
+	i1 - Proste logowanie,
+	i2 - Zabezpiecznie przed SQL injection poprzez zastosowanie prepared statements,
+	i3 - Serwis z dodanym haszowaniem haseł.
+
+Zrzut bazy danych z potrzebnymi tablicami i rekordami znajduje się w pliku dumped.sql. Oczywiście wszystkie komendy znajdują się na slajdach i można je wprowadzić ręcznie. Ten plik jest głównie dla referencji i jako pomoc w przypadku problemów.
+
