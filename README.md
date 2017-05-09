@@ -6,7 +6,7 @@ W poszczególnych folderach znajdują się materiały do odpowidnich części pr
  * *SQL* - Część dotycząca samego SQL,
  * *PHP+SQL* - Integracja PHP z SQL w postaci prostego serwisu WWW z logowaniem.
 
-Slajdy do prezentacj znajdują się na [Google Prezentacje](https://docs.google.com/presentation/d/1ucEUgH2GrTkuuog0aAE4KCdglbb4RM-nkEOtSalHTSE/edit?usp=sharing).
+Slajdy do prezentacji znajdują się na [Google Prezentacje](https://docs.google.com/presentation/d/1ucEUgH2GrTkuuog0aAE4KCdglbb4RM-nkEOtSalHTSE/edit?usp=sharing).
 
 Licencja
 --------
